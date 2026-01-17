@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/UTBootCampGroup2Project2/reward-bank#readme",
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "connect-session-sequelize": "^7.1.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
